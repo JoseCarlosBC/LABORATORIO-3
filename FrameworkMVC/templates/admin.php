@@ -1,7 +1,7 @@
 {include file="Cabecera/header.tpl"}
 </br>
 <div align="center" id="ENCABEZADO">
-        <h1>BIENVENIDO</h1>
+        <h1>Explosion de Arte</h1>
 </div>
 <div align="right">
 	<button type="button" class="btn btn-light">

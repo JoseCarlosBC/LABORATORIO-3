@@ -1,18 +1,18 @@
 <?php
-/* Smarty version 3.1.34-dev-7, created on 2020-08-08 16:44:37
+/* Smarty version 3.1.34-dev-7, created on 2020-08-08 23:23:22
   from 'C:\XMPP\htdocs\proyecto\LABORATORIO-3\FrameworkMVC\templates\Admin.php' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.34-dev-7',
-  'unifunc' => 'content_5f2eba55ea38e3_57211232',
+  'unifunc' => 'content_5f2f17ca00aa99_56773911',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
     '1bcb6b3dd9c561d6fe2b68d2b10e45c521d93c25' => 
     array (
       0 => 'C:\\XMPP\\htdocs\\proyecto\\LABORATORIO-3\\FrameworkMVC\\templates\\Admin.php',
-      1 => 1596897866,
+      1 => 1596920499,
       2 => 'file',
     ),
   ),
@@ -22,12 +22,12 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
     'file:Cabecera/footer.tpl' => 1,
   ),
 ),false)) {
-function content_5f2eba55ea38e3_57211232 (Smarty_Internal_Template $_smarty_tpl) {
+function content_5f2f17ca00aa99_56773911 (Smarty_Internal_Template $_smarty_tpl) {
 $_smarty_tpl->_subTemplateRender("file:Cabecera/header.tpl", $_smarty_tpl->cache_id, $_smarty_tpl->compile_id, 0, $_smarty_tpl->cache_lifetime, array(), 0, false);
 ?>
 </br>
 <div align="center" id="ENCABEZADO">
-        <h1>BIENVENIDO</h1>
+        <h1>Explosion de Arte</h1>
 </div>
 <div align="right">
 	<button type="button" class="btn btn-light">
