@@ -1,0 +1,11 @@
+section 
+{
+	width: 50%;
+	float: left;
+}
+
+aside {
+	float: right;
+	overflow: auto;
+	width: 50%;
+}

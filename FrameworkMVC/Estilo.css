@@ -1,0 +1,61 @@
+*
+{
+    margin:0px;
+    padding:0px;
+}
+body
+{
+	background-image: url('imagenes/xd.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+	font-family: Bahnschrift, Comic Sans MS, "Arial";
+	position:relative;
+}
+#ENCABEZADO
+{
+    text-align:center;
+    color:white;
+	
+	width:400px;
+	margin:6px auto;	
+}
+#CONTENIDO
+{
+	width:1000px;
+	margin:6px auto;
+	color:white;
+		
+}
+#PIE
+{
+    text-align:center;
+    width: 600px;
+    margin: 6px auto;
+    color: white;
+	font-size:25px;
+}
+
+#COLOR
+{
+   color: white;
+}
+
+h1
+{
+	display:inline-block;
+	position:relative;
+}
+
+
+#VENTAS
+{
+    color:white;
+	width:400px;
+	margin:6px auto;
+	font-size:40px;
+}
+table
+{
+    color:white;
+}
